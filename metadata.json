@@ -1,0 +1,8 @@
+{
+  "name": "Galo Strike Ultra",
+  "description": "Shooter arcade 3D de galos armados com fisica explosiva, veiculos dirigiveis, construcao sandbox, armaria customizavel e ondas taticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
